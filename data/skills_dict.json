@@ -1,0 +1,9 @@
+{
+  "aws": ["aws", "s3", "glue", "lambda", "redshift", "athena"],
+  "azure": ["azure", "synapse", "data factory", "adf", "databricks"],
+  "gcp": ["gcp", "bigquery", "cloud run", "pub/sub"],
+  "python": ["python", "pandas", "numpy", "sklearn"],
+  "sql": ["sql", "postgres", "mysql", "snowflake"],
+  "bi": ["power bi", "tableau", "looker", "metabase"],
+  "ml": ["machine learning", "xgboost", "random forest", "regression"]
+}
